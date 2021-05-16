@@ -1,0 +1,12 @@
+{
+  "name": "play_rn",
+  "displayName": "play_rn",
+  "expo": {
+    "name": "play_rn",
+    "slug": "play_rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
